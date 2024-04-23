@@ -1,0 +1,17 @@
+<!--Diner/menus/breakfast.html-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>Breakfast Menu</h1>
+    <ul>
+        <li>Cereal</li>
+        <li>Hashbrowns</li>
+        <li>Waffles</li>
+    </ul>
+</body>
+</html>

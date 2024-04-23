@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-
+    <h2>Thank you for your order!</h2>
 </body>
 </html>
