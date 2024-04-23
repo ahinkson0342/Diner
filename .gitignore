@@ -1,0 +1,4 @@
+#Git ignores these files
+vendor/
+tmp/
+composer.lock
